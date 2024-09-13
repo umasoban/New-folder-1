@@ -1,3 +1,12 @@
 main{background-color: brown;
-border:solid  5px;}
-h1{background-color: crimson;}
+border:solid  5px;
+padding: 10px;
+margin: 50px;
+text-align: center;
+font-size: 200px;}
+h1{background-color: crimson;
+text-align: center;
+border: solid;
+font-size: 50px;}
+div{background-color: #ebeb14;
+margin: 100px;}
