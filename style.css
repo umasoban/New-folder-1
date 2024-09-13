@@ -7,6 +7,14 @@ font-size: 200px;}
 h1{background-color: crimson;
 text-align: center;
 border: solid;
-font-size: 50px;}
-div{background-color: #ebeb14;
+font-size: 50px;
+margin: ;}
+div{display: flex; flex: row;
+    background-color: #ebeb14;
 margin: 100px;}
+p{color: fuchsia;
+background-color: gold;
+text-align: center;
+margin: auto;padding: 30px;
+border: solid;5px;
+text 100px}
