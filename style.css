@@ -1,13 +1,14 @@
 h1{color: crimson;
 text-align: center;
-} h1{width: 200px;}
+}
 body {
-    background-color: lightblue;
+    background-color: #e7120b;
   }
   
   h1 {
     color: white;
-    text-align: center;
+    text-align: center; 
+
   }
   
   p {
