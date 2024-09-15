@@ -16,5 +16,5 @@ p{color: fuchsia;
 background-color: gold;
 text-align: center;
 margin: auto;
-padding: 30px;
-}
+padding: 30px;}
+p{content: 300px;}
